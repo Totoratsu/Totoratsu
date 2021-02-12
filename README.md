@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [OpenBlog](https://github.com/Totoratsu/OpenBlog)
 - 🌱 I’m currently learning Mobile Development & Machine learning algorithms
-- 👯 I’m looking to collaborate on web development or movile projects
+- 👯 I’m looking to collaborate on web development or mobile projects
 
 #### Connect with me
 
