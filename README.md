@@ -3,7 +3,7 @@
 ![Totoratsu](https://komarev.com/ghpvc/?username=totoratsu&color=brightgreen)
 
 - 🔭 I’m currently working on [OpenBlog](https://github.com/Totoratsu/OpenBlog)
-- 🌱 I’m currently learning Movile Apps Development & Machine learning algorithms
+- 🌱 I’m currently learning Mobile Development & Machine learning algorithms
 - 👯 I’m looking to collaborate on web development or movile projects
 
 #### Connect with me
